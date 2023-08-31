@@ -99,5 +99,7 @@ public class Main extends JFrame implements ActionListener {
         Main frame = new Main();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
+        //Codigo produzido por Aleysson Garcia 
+        // Git: https://github.com/aleyssongarcia
     }
 }
